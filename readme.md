@@ -2,7 +2,7 @@
 
 ## DEPLOY 
 
-https://imported-models-ten.vercel.app/
+[Imported Models](https://imported-models-ten.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
